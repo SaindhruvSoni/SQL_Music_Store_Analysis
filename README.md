@@ -10,3 +10,4 @@ Here in this project i have examined the dataset with the help of SQL_Server the
 
 
 __Schema of Database__
+![schema image](https://github.com/SaindhruvSoni/SQL_Music_Store_Analysis/assets/91562392/0a819e92-1383-4314-a3d3-6abfe9e2f1aa)
