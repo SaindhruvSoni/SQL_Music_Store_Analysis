@@ -1,10 +1,4 @@
-create database project2
-use project2
-select * from employee
 
-----------------------------------------
-
---easy
 
 select top 1 title,(first_name +' ' +last_name) as name,hire_date
 from employee
@@ -48,7 +42,6 @@ order by total desc
 
 ---------------------------------------------
 
---mid
 
 select * from customer
 select * from genre
@@ -92,7 +85,6 @@ order by milliseconds desc
 
 -------------------------------------------
 
---hard
 
 select * from artist
 select * from customer
