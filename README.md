@@ -7,3 +7,6 @@ Here in this project i have examined the dataset with the help of SQL_Server the
 ## Database and Tools
 * Postgre SQL
 *  SQL_Server
+
+
+__Schema of Database__
